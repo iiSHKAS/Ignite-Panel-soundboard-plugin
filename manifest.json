@@ -1,0 +1,7 @@
+{
+  "name": "soundboard",
+  "version": "1.0.0",
+  "description": "Play audio file to speaker and virtual mic",
+  "author": "shkas",
+  "icon": "https://github.com/iiSHKAS/Ignite-Panel-soundboard-plugin/blob/main/soundboeard.svg"
+}
